@@ -41,3 +41,7 @@ def find_a(array)
   end
   awords
 end
+
+def sum_array(array)
+
+end
