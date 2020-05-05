@@ -26,7 +26,7 @@ end
 def kesha_maker(array)
   kesha = []
   array.each do |dollar|
-    dollar[2] <=> "$"
+    dollar[2] = "$"
   end
   kesha
 end
