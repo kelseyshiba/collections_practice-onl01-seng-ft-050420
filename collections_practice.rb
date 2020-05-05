@@ -47,3 +47,4 @@ def sum_array(array)
     sum + n
   array
 end
+end
