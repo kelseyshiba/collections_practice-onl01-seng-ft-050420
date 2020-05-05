@@ -37,5 +37,6 @@ def find_a(array)
     if words.start_with?("a")
     awords << words
   end
+end
   awords
 end
